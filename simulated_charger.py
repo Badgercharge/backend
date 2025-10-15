@@ -1,0 +1,1 @@
+# Simulated OCPP charger placeholder
